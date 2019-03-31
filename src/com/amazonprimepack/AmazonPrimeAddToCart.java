@@ -9,6 +9,7 @@ public class AmazonPrimeAddToCart {
 		testAmazonCartList.start();
 		JOptionPane.showMessageDialog(null, "Output - " + "Created list is displayed");
 		System.exit(0);
+		
 	}
 
 }
